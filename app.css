@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+#content {
+	padding: 0 7% 0 7%;
+}
+
+header {
+	height: 13%;
+	background-color: #00688B;
+}
+
+#logo {
+	float: left;
+	width: 4%;
+	margin-top: 1%;
+	margin-left: 1%;
+}
+
+#heading {
+	text-align: center;
+	color: azure;
+}
+
+.menu-text {
+	font-family: verdana;
+	font-size: 20px;
+}
+
+/* Navigation */
+.hover-underline-menu {
+  width: 100%;
+}
+
+.hover-underline-menu .menu {
+  background-color: #2C3840;
+}
+
+.hover-underline-menu .menu a {
+  color: #fefefe;
+  padding: 1.2rem 1.5rem;
+}
+
+.hover-underline-menu .menu .underline-from-center {
+  position: relative;
+}
+
+.hover-underline-menu .menu .underline-from-center::after {
+  content: "";
+  position: absolute;
+  top: calc(100% - 0.125rem);
+  border-bottom: 0.125rem solid #fefefe;
+  left: 50%;
+  right: 50%;
+  transition: all 0.5s ease;
+}
+
+.hover-underline-menu .menu .underline-from-center:hover::after {
+  left: 0;
+  right: 0;
+  transition: all 0.5s ease;
+}
+/* end navigation */
+
+body {
+	background-color: white;
+}
+
+p {
+	font-family: verdana;
+	font-size: 14px;
+	text-indent: 25px;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+}
+
+/*--- Start Image Slider --*/
+.orbit {
+	padding:10px 10px 100px 10px;
+	max-width: 850px;
+	margin: auto;
+}
+.orbit-image {
+	max-height: 450px;
+	height: 100%;
+	width: 100%;
+}
+.orbit-caption {
+	font-family: verdana;
+	font-size: 14px;
+}
+/* End Image Slider */
+
+footer {
+	position:fixed;
+	bottom:0;
+	width:100%;
+	height:90px;
+	background-color:#00688B;
+}
+#contact {
+	float:left;
+	padding-right: 50px;
+}
+#contact-item {
+	color:azure;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+}
+#copyright {
+	float: right;
+	color:azure
+}

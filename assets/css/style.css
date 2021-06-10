@@ -427,13 +427,14 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #222222;
+  color: #DDDDDD;
 }
 
 #hero h2 {
-  color: #6f6f6f;
+  color: #AAAAAA;
   margin: 10px 0 0 0;
   font-size: 22px;
+  text-align: center;
 }
 
 #hero .btn-about {

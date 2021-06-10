@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="md_drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title18849">md_clean</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3932941"
+     inkscape:cx="-270.94065"
+     inkscape:cy="518.91415"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:56.3926px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.40982"
+       x="-183.63449"
+       y="144.42252"
+       id="text3929"
+       transform="scale(0.93661076,1.0676794)"><tspan
+         id="tspan3927"
+         style="stroke-width:1.40982"
+         sodipodi:role="line"
+         x="-183.63449"
+         y="144.42252">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:54.0762px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.35191"
+       x="-158.07712"
+       y="138.427"
+       id="text18303"
+       transform="scale(0.89756685,1.1141231)"><tspan
+         sodipodi:role="line"
+         id="tspan18301"
+         style="stroke-width:1.35191"
+         x="-158.07712"
+         y="138.427">D</tspan></text>
+  </g>
+  <metadata
+     id="metadata18847">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>md_clean</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

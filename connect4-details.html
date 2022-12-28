@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Michael Dacanay | home</title>
+  <title>Portfolio Details | Eisendo</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -30,43 +30,57 @@
 
 <body>
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top">
-    <div class="container-fluid d-flex justify-content-between align-items-center">
+  <main id="main">
 
-      <h1 class="logo me-auto me-lg-0"><a href="index.html">Michael Dacanay</a></h1>
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+    <!-- ======= Portfolio Details Section ======= -->
+    <section id="portfolio-details" class="portfolio-details">
+      <div class="container">
 
-      <nav id="navbar" class="navbar order-last order-lg-0">
-        <ul>
-          <li><a class="active" href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="resume.html">Resume</a></li>
-          <li><a href="portfolio.html">Portfolio</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
+        <div class="row gy-4">
 
-      <div class="header-social-links">
-        <a href="https://github.com/MichaelDacanay"><i class="bi bi-github"></i></a>
-        <a href="https://www.linkedin.com/in/michael-dacanay/" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+          <div class="col-lg-8">
+            <div class="portfolio-details-slider swiper-container">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/Connect4CPUPlays.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/Connect4PickColumn.png" alt="">
+                </div>
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+          </div>
+
+          <div class="col-lg-4">
+            <div class="portfolio-info">
+              <h3>Project information</h3>
+              <ul>
+                <li><strong>Category</strong>: Web</li>
+                <li><strong>Technologies</strong>: Python</li>
+                <li><strong>Project date</strong>: Spring 2022</li>
+                <li><strong>Project URL</strong>: <a href="https://github.com/MichaelDacanay/connect4-ai">github.com</a></li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>Connect 4</h2>
+              <p>
+                Connect 4 is a two-player game in which players alternately place pieces on a vertical board. The 
+                player that first connects four pieces in a row wins. The board has 6 rows and 7 columns. The CPU 
+                algorithm (minimax, alpha-beta pruning, etc.) and evaluation function of the board can be configured.
+              </p>
+            </div>
+          </div>
+
+        </div>
+
       </div>
+    </section><!-- End Portfolio Details Section -->
 
-    </div>
-
-  </header><!-- End Header -->
-
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
-    <div class="container d-flex flex-column align-items-center" data-aos="zoom-in" data-aos-delay="100">
-      <div>
-        <h1>Welcome!</h1>
-      </div>
-      <a href="about.html" class="btn-about">About Me</a>
-    </div>
-  </section>
-  <!-- End Hero -->
+  </main><!-- End #main -->
 
   <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
